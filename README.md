@@ -13,7 +13,7 @@ A Python program that simulates racquetball games between two players with diffe
 - Detailed game statistics and win rates
 
 ## Flowchart
-![Racquetball Game Flowchart](Images/Flowchart.jpg)
+![Racquetball Game Flowchart](Image/Flowchart.jpg)
 
 ## Installation
 
